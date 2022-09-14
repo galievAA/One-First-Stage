@@ -7,16 +7,17 @@
 // [“1234”, “1567”, “-2”, “cDenmark”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
  
-string[] array1 = new string[5] {"Hello", "Kazan", "123", "world", ":-)"};
-string[] array2 = new string[array1.Length];
-void secArray(string[] array1, string[] array2)
+
+string[] arr1 = new string[5] {"Hello", "Kazan", "123", "world", ":-)"};
+string[] arr2 = new string[arr1.Length];
+void secArray(string[] arr1, string[] array2)
 {
     int count = 0;
-    for (int i = 0; i < array1.Length; i++)
+    for (int i = 0; i < arr1.Length; i++)
     {
-    if(array1[i].Length <= 3)
+    if(arr1[i].Length <= 3)
         {
-        array2[count] = array1[i];
+        array2[count] = arr1[i];
         count++;
         }
     }
@@ -29,8 +30,8 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
-secArray(array1, array2);
-PrintArray(array2);
+secArray(arr1, arr2);
+PrintArray(arr2);
  
 
 
