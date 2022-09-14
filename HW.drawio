@@ -1,0 +1,66 @@
+<mxfile host="65bd71144e">
+    <diagram id="ddQKnD-AOisxhCRLioey" name="Страница 1">
+        <mxGraphModel dx="1409" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="11" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7" target="10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; background-color: rgb(30 , 30 , 30) ; line-height: 21px&quot;&gt;&lt;font color=&quot;#569cd6&quot;&gt;строка массива 1&lt;/font&gt;&lt;span style=&quot;color: rgb(212 , 212 , 212)&quot;&gt;[]&amp;nbsp;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;arr1&lt;/span&gt;,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(86 , 156 , 214) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; background-color: rgb(30 , 30 , 30)&quot;&gt;строка массива 2&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(30 , 30 , 30) ; color: rgb(212 , 212 , 212) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px&quot;&gt;[]&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; color: rgb(156 , 220 , 254)&quot;&gt;array2&lt;/span&gt;&lt;span style=&quot;color: rgb(86 , 156 , 214) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; background-color: rgb(30 , 30 , 30)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;color: rgb(212 , 212 , 212) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; background-color: rgb(30 , 30 , 30) ; line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;span style=&quot;color: rgb(86 , 156 , 214)&quot;&gt;int&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;count считать&lt;/span&gt;&amp;nbsp;=&amp;nbsp;&lt;span style=&quot;color: rgb(181 , 206 , 168)&quot;&gt;0&lt;/span&gt;;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="12.5" y="60" width="470" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;" edge="1" parent="1" source="8" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;span style=&quot;color: rgb(86 , 156 , 214) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; background-color: rgb(30 , 30 , 30)&quot;&gt;Start&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="187.5" y="-30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="10" target="12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt;&lt;span style=&quot;color: #c586c0&quot;&gt;оператор for&lt;/span&gt; (&lt;span style=&quot;color: #569cd6&quot;&gt;int&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe&quot;&gt;i&lt;/span&gt; = &lt;span style=&quot;color: #b5cea8&quot;&gt;0&lt;/span&gt;; &lt;span style=&quot;color: #9cdcfe&quot;&gt;i&lt;/span&gt; &amp;lt; &lt;span style=&quot;color: #9cdcfe&quot;&gt;arr1&lt;/span&gt;.&lt;span style=&quot;color: #9cdcfe&quot;&gt;Length&lt;/span&gt;; &lt;span style=&quot;color: #9cdcfe&quot;&gt;i&lt;/span&gt;++)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="32.5" y="220" width="430" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="12" target="14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="12" target="17">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-120" y="410"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt;&lt;span style=&quot;color: #c586c0&quot;&gt;если if&lt;/span&gt;(&lt;span style=&quot;color: #9cdcfe&quot;&gt;arr1&lt;/span&gt;[&lt;span style=&quot;color: #9cdcfe&quot;&gt;i&lt;/span&gt;].&lt;span style=&quot;color: #9cdcfe&quot;&gt;Length&lt;/span&gt; &amp;lt;= &lt;span style=&quot;color: #b5cea8&quot;&gt;3&lt;/span&gt;)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="102.5" y="340" width="290" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="14" target="25">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt; &lt;span style=&quot;color: #4ec9b0&quot;&gt;Console&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa&quot;&gt;Write&lt;/span&gt;(&lt;span style=&quot;color: #ce9178&quot;&gt;$&quot;&lt;/span&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #9cdcfe&quot;&gt;array&lt;/span&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #9cdcfe&quot;&gt;i&lt;/span&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;]}&lt;/span&gt;&lt;span style=&quot;color: #ce9178&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;&quot;&lt;/span&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="380" width="312" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="17" target="10">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-120" y="250"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #9cdcfe&quot;&gt;array2&lt;/span&gt;[&lt;span style=&quot;color: #9cdcfe&quot;&gt;count&lt;/span&gt;] = &lt;span style=&quot;color: #9cdcfe&quot;&gt;arr1&lt;/span&gt;[&lt;span style=&quot;color: #9cdcfe&quot;&gt;i&lt;/span&gt;];&lt;/div&gt;&lt;div&gt;        &lt;span style=&quot;color: #9cdcfe&quot;&gt;count&lt;/span&gt;++;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-240" y="290" width="240" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-15" y="380" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="422.5" y="380" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="606" y="530" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
